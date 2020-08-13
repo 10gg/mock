@@ -1,3 +1,3 @@
-module github.com/nolouch/mock
+module github.com/10gg/mock
 
 go 1.14
